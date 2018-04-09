@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Module Manager" shouldLog="false" />
+    <notification groupId="Project Loading Error" shouldLog="false" />
+  </component>
+</application>

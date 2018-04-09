@@ -1,0 +1,6 @@
+<application>
+  <component name="IntelliVaultPreferencesService">
+    <option name="vaultPath" value="$USER_HOME$/Documents/workspace/tools/vault-cli-2.4.40" />
+    <option name="showDialogs" value="false" />
+  </component>
+</application>

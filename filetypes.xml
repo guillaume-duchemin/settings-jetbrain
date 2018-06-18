@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="njk" type="HTML" />
       <mapping ext="nunjucks" type="HTML" />
+      <mapping pattern="button-icon-rounded" type="Twig" />
     </extensionMap>
   </component>
 </application>

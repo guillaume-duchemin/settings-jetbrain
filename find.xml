@@ -12,7 +12,7 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.less</mask>
-    <mask>*.html</mask>
     <mask>*.es6</mask>
+    <mask>*.html</mask>
   </component>
 </application>
